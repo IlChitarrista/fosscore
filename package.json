@@ -1,0 +1,20 @@
+{
+  "name": "fosscore",
+  "version": "0.0.1",
+  "description": "Fosscore is a Free & Open Source Software for Score Reading and Management",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "license": "AGPLv3",
+  "devDependencies": {
+    "typescript": "^4.9.5",
+    "vite": "^4.1.1",
+    "vite-plugin-solid": "^2.5.0"
+  },
+  "dependencies": {
+    "solid-js": "^1.6.10"
+  }
+}
